@@ -28,3 +28,9 @@ Basic introductory programs I wrote while learning go and some helpful notes
 
 #### Data management
 - Go supports pointers which are reference variables that point to an address in memory to refer to another value.
+
+### Memory Allocation
+- The ```new()``` function allocates but does not initialise memory. Results in a zeroed storage but returns a memory address.
+- The ```make()``` function allocates and initialises memory. Results in non-zeroed storage and returns a memory address.
+- Memory is deallocated by the garbage collector. Objects out of scope or set to ```nil``` are eligible.
+- Go was designed to have a very low latency garbage collector.
