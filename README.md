@@ -1,6 +1,6 @@
 # learning-go
 
-Basic introductory programs I wrote while learning go and some helpful notes
+Introductory programs, notes and some interesting applications I wrote while learning go.
 
 ## Notes on Go
 ### Overview
