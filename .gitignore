@@ -2,3 +2,5 @@
 .vscode/
 
 .idea/
+
+cli-reminder-app/notifier/node_modules/
