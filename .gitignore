@@ -3,4 +3,4 @@
 
 .idea/
 
-cli-reminder-app/notifier/node_modules/
+cli-reminder-app/src/notifier/node_modules/

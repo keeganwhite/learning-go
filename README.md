@@ -2,6 +2,10 @@
 
 Introductory programs, notes and some interesting applications I wrote while learning go.
 
+## Useful resources
+- [Understanding how go works on your system](https://medium.com/rungo/working-in-go-workspace-3b0576e0534a)
+- [A basic introduction to how go works and how to structure your code](https://golang.org/doc/code#Organization)
+
 ## Notes on Go
 ### Overview
 - Go is based mostly on C and influenced by other languages (C++, Java, C#, etc.).
